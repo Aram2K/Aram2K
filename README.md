@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aram2K
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m a Data Scientist
 - 💞️ I’m looking to collaborate with Every Data Sceintist
 - 📫 How to reach me: https://www.linkedin.com/in/aram-adamyan-0b803a206
 
